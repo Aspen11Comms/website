@@ -1,13 +1,21 @@
-## Aspen 11th Ward
-#### Orem Aspen 11th Stake
+# Aspen 11th Ward
+#### Orem Aspen Stake
 
-### Ward Meetings
+## Ward Meetings
 
-*September 20, 2020 @ 10:30am:* Sacrament Meeting
+### September 20, 2020
 
-*September 20, 2020 @ 11:45am:* Relief Society 
+#### Sacrament Meeting - 10:30am
 
-*September 20, 2020 @ 11:45am:* Elder's Quorum
+*(broadcast link will be posted approx. 9:30am)
+
+#### 2nd Hour - 11:45am (facilitated by Orem Aspen Stake as part of Ward Conference)
+
+*Relief Society* [meeting link](http://meet.google.com/rbm-rvhi-owo)
+
+*Elder's Quorum* [meeting link](http://meet.google.com/ajp-heir-pmx)
+
+*Youth combined* [meeting link](https://sirsidynix.zoom.us/j/2136496727)
 
 
 <!--
