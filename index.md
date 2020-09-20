@@ -2,5 +2,9 @@
 #### Orem Aspen 11th Stake
 
 ### Ward Meetings
-September 20, 2020 @ 10:30am [Sacrament Meeting](https://www.youtube.com/channel/CHANNEL_NAME/live)
+| Date | Time | Meeting |
+| --- | --- | --- |
+| September 20, 2020 | 10:30am | Sacrament Meeting |
+| September 20, 2020 | 11:45am | Relief Society |
+| September 20, 2020 | 11:45am | Elder's Quorum |
 
