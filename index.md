@@ -4,7 +4,9 @@
 
 ### Sacrament Meeting - 10:30am
 
-*(broadcast link will be posted approx. 9:30am)
+*(broadcast link will be posted approx. 9:30am)*
+
+[Group assignments](https://drive.google.com/file/d/1qnAN-9MhnXr8C7wqeJj-HlZYnEgK2FD_/preview)
 
 ### 2nd Hour - 11:45am (facilitated by Orem Aspen Stake as part of Ward Conference)
 
