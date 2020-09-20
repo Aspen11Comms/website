@@ -1,15 +1,12 @@
-# Aspen 11th Ward
-#### Orem Aspen Stake
+# Ward Meetings
 
-## Ward Meetings
+## September 20, 2020
 
-### September 20, 2020
-
-#### Sacrament Meeting - 10:30am
+### Sacrament Meeting - 10:30am
 
 *(broadcast link will be posted approx. 9:30am)
 
-#### 2nd Hour - 11:45am (facilitated by Orem Aspen Stake as part of Ward Conference)
+### 2nd Hour - 11:45am (facilitated by Orem Aspen Stake as part of Ward Conference)
 
 *Relief Society* [meeting link](http://meet.google.com/rbm-rvhi-owo)
 
