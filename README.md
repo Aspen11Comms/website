@@ -6,4 +6,4 @@ September 20, 2020 @ 10:30am [Sacrament Meeting](https://www.youtube.com/channel
 
 
 
-[How to edit GitHub Pages](https://github.com/Aspen11Comms/website/edit/gh-pages/markdown-help.md)
+[How to edit GitHub Pages](https://github.com/Aspen11Comms/website/edit/master/markdown-help.md)
