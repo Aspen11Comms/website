@@ -17,7 +17,10 @@
 *Youth combined* [meeting link](https://sirsidynix.zoom.us/j/2136496727)
 
 
-<!--
+
+   ---  
+###### Link to [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ) for all Sunday class and quorum meetings.
+<!-- Might be nice to get this table working, but so far it's not :]
 | Date | Time | Meeting |
 | --- | --- | --- |
 | September 20, 2020 | 10:30am | Sacrament Meeting |
