@@ -1,21 +1,35 @@
 # Ward Meetings
 
-## September 20, 2020
+## September 27, 2020
 
 ### Sacrament Meeting - 10:30am
 
-*[Watch & Listen to Aspen 11th Ward's Sacrament Meeting](https://www.youtube.com/watch?v=pajvtAMAWIs)*
+<!--*[Watch & Listen to Aspen 11th Ward's Sacrament Meeting](https://www.youtube.com/watch?v=pajvtAMAWIs)*-->
+Aspen 11th Ward Sacrament Meeting *(link will be available approx. 1 hour before the start of the meeting)*
 
 [Group assignments](https://drive.google.com/file/d/1qnAN-9MhnXr8C7wqeJj-HlZYnEgK2FD_/preview)
 
-### 2nd Hour - 11:45am (facilitated by Orem Aspen Stake as part of Ward Conference)
+### 2nd Hour Meetings - 11:45am
 
-*Relief Society* [meeting link](http://meet.google.com/rbm-rvhi-owo)
+#### Relief Society & Elders Quorum
 
-*Elder's Quorum* [meeting link](http://meet.google.com/ajp-heir-pmx)
+*Relief Society* [meeting link](https://meet.google.com/pha-prfy-ykv)
 
-*Youth combined* [meeting link](https://sirsidynix.zoom.us/j/2136496727)
+*Elder's Quorum* [meeting link](https://meet.google.com/uif-nmvv-jtn)
 
+#### Young Women
+
+*Young Women (12-15)* [meeting link](https://meet.google.com/qmq-tova-qhk)
+
+*Young Women (16-18)* [meeting link](https://meet.google.com/rph-cjvg-sgm)
+
+#### Aaronic Priesthood
+
+*Deacons Quorum* [meeting link](https://meet.google.com/qrq-bpze-pmu)
+
+*Teachers Quorum* [meeting link](https://meet.google.com/wiz-zbgv-nxs)
+
+*Priests Quorum* [meeting link](https://meet.google.com/hyi-jkmp-ymd)
 
 
    ---  
