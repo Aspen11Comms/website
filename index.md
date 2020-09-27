@@ -9,7 +9,7 @@ Aspen 11th Ward Sacrament Meeting *(link will be available approx. 1 hour before
 
 [Group assignments](https://drive.google.com/file/d/1qnAN-9MhnXr8C7wqeJj-HlZYnEgK2FD_/preview)
 
-### 2nd Hour Meetings - 11:45am
+### 2nd Hour Meetings - 12:00pm
 
 #### Relief Society & Elders Quorum
 
