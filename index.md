@@ -19,9 +19,9 @@ Aspen 11th Ward Sacrament Meeting *(link will be available approx. 1 hour before
 
 #### Young Women
 
-*Young Women (12-15)* [meeting link](https://meet.google.com/qmq-tova-qhk)
+<!-- *Young Women (12-15)* [meeting link](https://meet.google.com/qmq-tova-qhk) -->
 
-*Young Women (16-18)* [meeting link](https://meet.google.com/rph-cjvg-sgm)
+*Young Women (Combined)* [meeting link](https://meet.google.com/rph-cjvg-sgm)
 
 #### Aaronic Priesthood
 
