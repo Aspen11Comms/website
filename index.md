@@ -7,7 +7,7 @@
 <!--*[Watch & Listen to Aspen 11th Ward's Sacrament Meeting](https://www.youtube.com/watch?v=pajvtAMAWIs)*-->
 [Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=TR5-Y1v6Rvs) *(link will be available approx. 30 minutes before the start of the meeting each week)*
 
-[Group assignments](https://drive.google.com/file/d/1qnAN-9MhnXr8C7wqeJj-HlZYnEgK2FD_/preview)
+[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview)
 
 ### 2nd Hour Meetings - 12:00pm
 
