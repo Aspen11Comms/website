@@ -36,8 +36,9 @@
 ###### Link to [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ) for all Sunday class and quorum meetings.
 
    --- 
-## [Tithing Settlement Calendar and Signup](bishopsharp-tithing-settlement-2020.youcanbook.me)
-Click the link above to see availability and book a time for you and your family to attend tithing settlement. You can opt for a virtual appointment, if you wish.
+## Tithing Settlement Calendar and Signup
+* [Click here](https://bishopsharp-tithing-settlement-2020-virtual.youcanbook.me) to book a virtual tithing settlement appointment
+* [Click here](bishopsharp-tithing-settlement-2020.youcanbook.me) to book an in-person tithing settlement appointment
 
 <!-- Might be nice to get this table working, but so far it's not :]
 | Date | Time | Meeting |
