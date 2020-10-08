@@ -37,6 +37,7 @@
 
    --- 
 ## [Tithing Settlement Calendar and Signup](bishopsharp-tithing-settlement-2020.youcanbook.me)
+Click the link above to see availability and book a time for you and your family to attend tithing settlement. You can opt for a virtual appointment, if you wish.
 
 <!-- Might be nice to get this table working, but so far it's not :]
 | Date | Time | Meeting |
