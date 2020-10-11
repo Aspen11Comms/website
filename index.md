@@ -1,11 +1,11 @@
 # Ward Meetings
 
-## October 11, 2020
+## October 18, 2020
 
 ### Sacrament Meeting - 10:30am
 
 <!--*[Watch & Listen to Aspen 11th Ward's Sacrament Meeting](https://www.youtube.com/watch?v=pajvtAMAWIs)*-->
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=eLLpPRtyk4Y) *(link will be available approx. 30 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](tbd) *(link will be available approx. 30 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview)
 
