@@ -5,7 +5,7 @@
 ### Sacrament Meeting - 10:30am
 
 <!--*[Watch & Listen to Aspen 11th Ward's Sacrament Meeting](https://www.youtube.com/watch?v=pajvtAMAWIs)*-->
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=TR5-Y1v6Rvs) *(link will be available approx. 30 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=eLLpPRtyk4Y) *(link will be available approx. 30 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview)
 
@@ -39,12 +39,3 @@
 ## Tithing Settlement Calendar and Signup
 * [Click here](https://bishopsharp-tithing-settlement-2020-virtual.youcanbook.me) to book a virtual tithing settlement appointment
 * [Click here](https://bishopsharp-tithing-settlement-2020.youcanbook.me) to book an in-person tithing settlement appointment
-
-<!-- Might be nice to get this table working, but so far it's not :]
-| Date | Time | Meeting |
-| --- | --- | --- |
-| September 20, 2020 | 10:30am | Sacrament Meeting |
-| September 20, 2020 | 11:45am | Relief Society |
-| September 20, 2020 | 11:45am | Elder's Quorum |
--->
-
