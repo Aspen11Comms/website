@@ -18,7 +18,7 @@
 * Course 15 - Creer [meeting link](https://meet.google.com/qpm-afzw-acd)
 * Course 16/17 - Wilde [meeting link](https://meet.google.com/str-yptr-iab)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
-* Gospel Doctrine [meeting link](https://tbd) _TBD_
+* Gospel Doctrine [meeting link](https://us02web.zoom.us/j/82941717355)
 
 
 <!---
