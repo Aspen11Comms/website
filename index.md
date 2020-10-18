@@ -16,7 +16,7 @@
 * Course 13 - Sharp/Scott [meeting link](https://meet.google.com/hcp-iuvu-bpw)
 * Course 14 - Weaver [meeting link](https://meet.google.com/itg-bpwo-kuq)
 * Course 15 - Creer [meeting link](https://meet.google.com/qpm-afzw-acd)
-* Course 16/17 - Wilde [meeting link](https://meet.google.com/str-yptr-iab)
+* Course 16/17 - Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
 * Gospel Doctrine [meeting link](https://us02web.zoom.us/j/82941717355)
 
