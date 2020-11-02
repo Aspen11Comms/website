@@ -1,0 +1,61 @@
+
+
+
+Set up Zoom & Youtube live stream
+	Starting 1 hour before meeting (9:30AM sunday morning)
+	1. Sign in to zoom with Communications Aspen 11 Google SSO
+	2. Create a meeting
+	3. Moderators join
+		- do not join with computer audio
+		- post invite link and password in GroupMe
+	4. From meeting: More -> Live on Youtube.
+			Sign in to Youtube with same GoogleSSO
+			Broadcast Zoom Meeting to YouTube Live
+				Sacrament Meeting | Orem Aspen 11th Ward
+				Privacy: Unlisted
+	5. Sharing arrow > Advanced Sharing options > All Participants x2
+	6. Comments are disabled by default
+
+Play prelude music
+	7. Jacob's computer will share the Christ in Americas image and music
+	8. Open spotify, play spotify Motab playlist "Sacrament Meeting Prelude"
+	9. Share screen > advanced > choose computer audio.
+	10. add this to youtube live chat: ​If anyone is having technical difficulties, please text (385) 309-0732, and we can help you out!
+
+Connect viewers with link via github
+	10. https://github.com/Aspen11Comms/website
+			get link from youtube stream view
+	11. publish new link. Ensure it shows up at https://aspen11.org
+
+Set up mobile camera and mic
+	12. put phone in holder on the stand
+	13. Connect Microphone & power to phone
+	14. connect phone to zoom meeting (use zoom meeting ID, and password) over hotspot
+
+Switch to live prelude
+	15. When organ prelude begins, stop music prelude sharing.
+	16. Start video on phone & mic. it should be presenting
+
+During Sacrament broadcast
+	17. Capture count of live viewers for Brother Douglas.
+
+At sacrament ordinance
+	18. End Zoom meeting for all. okay to end immediately after closing prayer - the broadcast will catch up if it's delayed.
+
+After meeting ends
+	19. Retrieve and store hardware
+	20. Update github with TBD
+
+
+
+
+Waiting room while
+	Zoom background: Jesus, with TabCATS broadcasting
+	soundSource
+		overall output
+		0% on Safari / youtube livestream. no redirect
+		100% Spotify.  no redirect
+
+Helpful walkthroughs
+	https://support.zoom.us/hc/en-us/articles/360028478292-Streaming-a-Meeting-or-Webinar-on-YouTube-Live
+
