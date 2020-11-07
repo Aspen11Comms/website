@@ -1,9 +1,5 @@
 # Ward Meetings
 
-## 'Among Us' Combined Youth Activity - Nov 5, 2020
-
-# [Meeting Link](https://us02web.zoom.us/j/82448855158)
-
 ## November 1, 2020
 
 ### Sacrament Meeting - 10:30am
