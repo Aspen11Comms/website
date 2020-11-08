@@ -24,7 +24,7 @@
 
 #### Relief Society & Elders Quorum
 
-*Relief Society* [meeting link](https://meet.google.com/pha-prfy-ykv)
+*Relief Society* [meeting link](https://us02web.zoom.us/j/83678982627)
 
 *Elder's Quorum* [meeting link](https://meet.google.com/uif-nmvv-jtn)
 
