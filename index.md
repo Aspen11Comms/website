@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## November 1, 2020
+## November 8, 2020
 
 ### Sacrament Meeting - 10:30am
 
