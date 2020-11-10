@@ -52,6 +52,6 @@
 * [Click here](https://bishopsharp-tithing-settlement-2020-virtual.youcanbook.me) to book a virtual tithing settlement appointment
 * [Click here](https://bishopsharp-tithing-settlement-2020.youcanbook.me) to book an in-person tithing settlement appointment
 
-
+{% include calendar_test.html %}
 
 
