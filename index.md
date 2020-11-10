@@ -49,7 +49,7 @@ src_id: YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ
 *Priests Quorum* [meeting link](https://meet.google.com/hyi-jkmp-ymd)
 
    ---  
-###### Link to [Google Calendar](https://calendar.google.com/calendar/u/1?cid=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ) for all Sunday class and quorum meetings.
+###### Link to [Google Calendar](https://calendar.google.com/calendar/u/0?cid=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ) or [iCal file](https://calendar.google.com/calendar/ical/aspen11communications%40gmail.com/public/basic.ics) for all Sunday class and quorum meetings.
 
    --- 
 ## Tithing Settlement Calendar and Signup
