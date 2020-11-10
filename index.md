@@ -51,7 +51,6 @@
 ## Tithing Settlement Calendar and Signup
 * [Click here](https://bishopsharp-tithing-settlement-2020-virtual.youcanbook.me) to book a virtual tithing settlement appointment
 * [Click here](https://bishopsharp-tithing-settlement-2020.youcanbook.me) to book an in-person tithing settlement appointment
-
-{% include calendar_test.html %}
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FDenver&amp;src=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ&amp;color=%23039BE5&amp;showNav=0&amp;showCalendars=0&amp;showPrint=0&amp;showTabs=0&amp;mode=AGENDA&amp;showTz=0&amp;showDate=0" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
