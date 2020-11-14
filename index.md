@@ -28,20 +28,28 @@ Aspen 11th Ward Sacrament Meeting *(link will be available approx. 15 minutes be
 * Gospel Doctrine [meeting link](https://us02web.zoom.us/j/82941717355)
 
 <!--
+
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://us02web.zoom.us/j/83678982627)
 
 *Elder's Quorum* [Meeting link](https://meet.google.com/uif-nmvv-jtn)
 
+-->
+
+<!--
+
 #### Young Women
 
 <!-- *Young Women (16-18)* [Meeting link](https://meet.google.com/rph-cjvg-sgm) -->
 
-*Young Women (Combined)* [Meeting link](https://meet.google.com/ifu-vqyf-ytm)
+<!-- *Young Women (Combined)* [Meeting link](https://meet.google.com/ifu-vqyf-ytm) -->
 
 <!-- *Young Women (12-15)* [Meeting link](https://meet.google.com/qmq-tova-qhk) -->
 
+-->
+
+<!--
 #### Aaronic Priesthood
 
 *Deacons Quorum* [Meeting link](https://meet.google.com/qrq-bpze-pmu)
@@ -50,9 +58,10 @@ Aspen 11th Ward Sacrament Meeting *(link will be available approx. 15 minutes be
 
 *Priests Quorum* [Meeting link](https://meet.google.com/hyi-jkmp-ymd)
 
+-->
 ### Teacher Council Meeting - 1:00pm
 *Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd%3Db2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw2jwwDMpxJMnKqCw0bh1vKE)
-<---
+
 
    ---  
 ###### Link to [Google Calendar](https://calendar.google.com/calendar/u/0?cid=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ) or [iCal file](https://calendar.google.com/calendar/ical/aspen11communications%40gmail.com/public/basic.ics) for all Sunday class and quorum meetings.
