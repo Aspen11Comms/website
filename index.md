@@ -52,6 +52,7 @@
 ### Teacher Council Meeting - 1:00pm
 *Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd=b2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09)
 
+*[Teacher's Technology Guide](https://docs.google.com/document/d/1dSY6IK2yK7si5LEYBuJu4oAn8cZhzvsciy1mspVzn3Q/edit)* 
 
    ---  
 ###### Link to [Google Calendar](https://calendar.google.com/calendar/u/0?cid=YXNwZW4xMWNvbW11bmljYXRpb25zQGdtYWlsLmNvbQ) or [iCal file](https://calendar.google.com/calendar/ical/aspen11communications%40gmail.com/public/basic.ics) for all Sunday class and quorum meetings.
