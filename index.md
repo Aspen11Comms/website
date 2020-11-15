@@ -50,7 +50,7 @@
 *Priests Quorum* [Meeting link](https://meet.google.com/hyi-jkmp-ymd)
 -->
 ### Teacher Council Meeting - 1:00pm
-*Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd%3Db2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw2jwwDMpxJMnKqCw0bh1vKE)
+*Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd=b2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09)
 
 
    ---  
