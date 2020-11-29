@@ -23,7 +23,7 @@
 -->
 
 ### Fifth Sunday Lesson
-* Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf)
+* Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
 
 <!--
 #### Relief Society & Elders Quorum
