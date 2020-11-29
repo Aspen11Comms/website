@@ -5,7 +5,7 @@
 ### Sacrament Meeting - 10:30am
 
 
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=WzrDY2H2Wz4) *(link will be available approx. 15 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=0-7wvLfFaRU) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
