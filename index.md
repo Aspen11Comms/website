@@ -20,6 +20,8 @@
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
 
+* Gospel Doctrine - Hadfield [meeting link](https://us02web.zoom.us/j/82941717355)
+
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
