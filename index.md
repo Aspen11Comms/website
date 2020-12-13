@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## December 6, 2020
+## December 13, 2020
 
 ### Sacrament Meeting - 10:30am
 
@@ -11,7 +11,7 @@
 
 
 ### 2nd Hour Meetings - 12:00pm
-
+<!--
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://meet.google.com/dno-ohaw-iin)
 * Course 12 (12-13yo) - Bro/Sis. Ellis [meeting link](https://meet.google.com/zww-rnvx-gda)
 * Course 13 (13-14yo) - Sis. Sharp/Scott [meeting link](https://prenda.zoom.us/j/99095514649)
@@ -19,7 +19,7 @@
 * Course 15 (15-16yo) - Bro/Sis. Creer [meeting link](https://meet.google.com/qpm-afzw-acd)
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
-
+<!--
 * Gospel Doctrine - Hadfield [meeting link](https://us02web.zoom.us/j/82941717355)
 
 <!--
@@ -33,17 +33,12 @@
 *Elder's Quorum* [Meeting link](https://meet.google.com/uif-nmvv-jtn)
 -->
 
-<!--
+
 #### Young Women
 
-<!-- *Young Women (16-18)* [Meeting link](https://meet.google.com/rph-cjvg-sgm)
+*Young Women (Combined)* [Meeting link](https://meet.google.com/jzi-ssnm-uxb)
 
-*Young Women (Combined)* [Meeting link](https://meet.google.com/ifu-vqyf-ytm)
 
-<!-- *Young Women (12-15)* [Meeting link](https://meet.google.com/qmq-tova-qhk)
--->
-
-<!--
 #### Aaronic Priesthood
 
 *Deacons Quorum* [Meeting link](https://meet.google.com/qrq-bpze-pmu)
@@ -53,8 +48,11 @@
 *Priests Quorum* [Meeting link](https://meet.google.com/hyi-jkmp-ymd)
 -->
 
-<!--
+### Youth Fireside - 3:00pm
 
+*Youth Fireside* [Meeting link](https://us02web.zoom.us/j/82038809943?pwd=MHc3VDNBS3AxMTZiR3Q4T3hJTnladz09)
+
+<!--
 ### Teacher Council Meeting - 1:00pm
 *Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd=b2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09)
 -->
