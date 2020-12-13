@@ -46,7 +46,7 @@
 *Teachers Quorum* [Meeting link](https://meet.google.com/wiz-zbgv-nxs)
 
 *Priests Quorum* [Meeting link](https://meet.google.com/hyi-jkmp-ymd)
--->
+
 
 ### Youth Fireside - 3:00pm
 
