@@ -1,11 +1,11 @@
 # Ward Meetings
 
-## December 13, 2020
+## December 20, 2020
 
 ### Sacrament Meeting - 10:30am
 
 
-[Aspen 11th Ward Sacrament Meeting](tbd) *(link will be available approx. 15 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=ixO4kVJZj9M) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
