@@ -11,7 +11,7 @@
 
 
 ### 2nd Hour Meetings - 12:00pm
-
+<!--
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://qualtrics.zoom.us/my/dpatty)
 * Course 12 (12-13yo) - Bro/Sis. Ellis [meeting link](https://meet.google.com/zww-rnvx-gda)
 * Course 13 (13-14yo) - Sis. Sharp/Scott [meeting link](https://prenda.zoom.us/j/7221837462)
@@ -21,18 +21,23 @@
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
 
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/82941717355)
-
+-->
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
 -->
-<!--
+
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://us02web.zoom.us/j/88096358366?pwd=TlpjdTN6Q1JRb2RuUEw0L29ibzF3dz09) (Meeting ID 880 9635 8366, Passcode 750494)
 
 *Elder's Quorum* [Meeting link](https://meet.google.com/uif-nmvv-jtn)
 
+#### Youth Classes [Meeting link](https://zoom.us/j/95454444923?pwd=ZmhacVBvVmFaTms3bXhCRzFyTnl3Zz09)
+
+This week, all of our youth will be using a single zoom meeting, but with Breakout rooms to split into separate classes.
+
+<!--
 #### Young Women
 
 *Young Women (Combined)* [Meeting link](https://meet.google.com/jzi-ssnm-uxb)
@@ -51,10 +56,13 @@
 
 *Youth Fireside* [Meeting link](https://us02web.zoom.us/j/82038809943?pwd=MHc3VDNBS3AxMTZiR3Q4T3hJTnladz09)
 -->
+
 <!--
 ### Teacher Council Meeting - 1:00pm
 *Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd=b2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09)
 -->
+
+#### Teachers Help
 
 *[Teacher's Technology Guide](https://docs.google.com/document/d/1dSY6IK2yK7si5LEYBuJu4oAn8cZhzvsciy1mspVzn3Q/edit)* 
 
