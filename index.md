@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## December 20, 2020
+## December 27, 2020
 
 ### Sacrament Meeting - 10:30am
 
