@@ -33,9 +33,9 @@
 
 *Elder's Quorum* [Meeting link](https://meet.google.com/uif-nmvv-jtn)
 
-#### Youth Classes [Meeting link](https://zoom.us/j/95454444923?pwd=ZmhacVBvVmFaTms3bXhCRzFyTnl3Zz09)
+#### Youth Classes [Meeting link](https://zoom.us/j/95454444923?pwd=ZmhacVBvVmFaTms3bXhCRzFyTnl3Zz09) 
 
-This week, all of our youth will be using a single zoom meeting, but with Breakout rooms to split into separate classes.
+This week, all of our youth will be using a single zoom meeting (Meeting ID 954 5444 4923, Passcode 319290), but with Breakout rooms to split into separate classes.
 
 <!--
 #### Young Women
