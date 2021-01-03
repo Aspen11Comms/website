@@ -22,6 +22,31 @@
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
 
+#### Which Youth Class am I in?
+##### Course 11
+Austin Adams, Henry Boice, Isabella Burr, Kai Chantry, Brooke Johnson, Landon Lupus, Alice McGrath, Kiara Niklitschek, Joshua Reid, Gustavo Rocha, Jett Ross, Thomas Spackman
+
+##### Course 12
+Luke Bergin, Beth Douglas, Grayson Ellison, Cooper Garner, Grace Graham, Aspyn Johnson, Marshall Kimber, JC Martinez, Luis Meneses, Giovana Rocha, Javin Rowley, Cohen Sharp, Chloe Van Dyke
+
+##### Course 13
+David Burr, Megan Humble, Emma Jacquart, Anna McGrath, Kayden Norton, JJ Perkins, Eden Spackman, Marjorie Story
+
+##### Course 14
+Paige Adams, Rachel Bergin, Briggs Bronson, Michael Burr, Ronan Dallin, Ella Ellison, Angel Hill, Chase Johnson, Michael Judkins, Chanel Lupus, Ava Newton, Emmy Sharp
+
+##### Course 15
+Alexis Adams, Robbie Boyce, Morgan Burton, Nelson Johnson, Coen Long, Isabela Rocha, Dylan Story, Cooper Todd, Daphne Waldron, Elijah Woolf
+
+##### Course 16
+Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup, Tate Wilde
+
+##### Course 17
+Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
+
+##### Course 17B
+Sofia Gonzalez, Hailey Johnson, Christian Todd
+
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
