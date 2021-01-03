@@ -1,8 +1,8 @@
 # Ward Meetings
 
-## December 27, 2020
+## January 3, 2021
 
-### Sacrament Meeting - 10:30am
+### Sacrament Meeting - 12:00pm
 
 
 [Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=J2424cdtvUY) *(link will be available approx. 15 minutes before the start of the meeting each week)*
@@ -10,8 +10,10 @@
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
 
-### 2nd Hour Meetings - 12:00pm
-<!--
+### 2nd Hour Meetings - 1:30pm
+
+* Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/82941717355)
+
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://qualtrics.zoom.us/my/dpatty)
 * Course 12 (12-13yo) - Bro/Sis. Ellis [meeting link](https://meet.google.com/zww-rnvx-gda)
 * Course 13 (13-14yo) - Sis. Sharp/Scott [meeting link](https://prenda.zoom.us/j/7221837462)
@@ -20,12 +22,9 @@
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
 
-* Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/82941717355)
--->
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
--->
 
 #### Relief Society & Elders Quorum
 
