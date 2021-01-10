@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## January 3, 2021
+## January 10, 2021
 
 ### Sacrament Meeting - 12:00pm
 
