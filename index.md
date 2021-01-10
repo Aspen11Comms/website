@@ -45,7 +45,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 
 #### Relief Society & Elders Quorum
 
-*Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 880 9635 8366, Passcode 750494)
+*Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979)
 
 *Elder's Quorum* [Meeting link](https://meet.google.com/uif-nmvv-jtn)
 
