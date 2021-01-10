@@ -45,13 +45,13 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 
 #### Relief Society & Elders Quorum
 
-*Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979)
+*Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
 
-*Elder's Quorum* [Meeting link](https://meet.google.com/uif-nmvv-jtn)
+*Elder's Quorum* [Meeting link](https://meet.google.com/hkq-fmnt-ctr)
 
-#### Youth Classes [Meeting link](https://zoom.us/j/95454444923?pwd=ZmhacVBvVmFaTms3bXhCRzFyTnl3Zz09) 
+#### Youth Classes [Meeting link](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09) 
 
-This week, all of our youth will be using a single zoom meeting (Meeting ID 954 5444 4923, Passcode 319290), but with Breakout rooms to split into separate classes.
+This week, all of our youth will be using a single zoom meeting (Meeting ID 831 1601 8375, Passcode 938426), but with Breakout rooms to split into separate classes.
 
 <!--
 #### Young Women
