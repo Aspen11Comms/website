@@ -11,7 +11,8 @@
 
 
 ### 2nd Hour Meetings - 1:30pm
-
+TBD
+<!--
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
