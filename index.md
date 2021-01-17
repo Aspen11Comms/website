@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## January 10, 2021
+## January 17, 2021
 
 ### Sacrament Meeting - 12:00pm
 
@@ -11,15 +11,16 @@
 
 
 ### 2nd Hour Meetings - 1:30pm
-<!--
+
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
-* Course 12 (12-13yo) - Bro/Sis. Ellis [meeting link](https://meet.google.com/zww-rnvx-gda)
+* Course 12 (12-13yo) - Bro/Sis. Davies [meeting link](https://meet.google.com/zww-rnvx-gda)
 * Course 13 (13-14yo) - Sis. Sharp/Scott [meeting link](https://prenda.zoom.us/j/7221837462)
 * Course 14 (14-15yo) - Bro/Sis. Weaver [meeting link](https://meet.google.com/itg-bpwo-kuq)
 * Course 15 (15-16yo) - Bro/Sis. Creer [meeting link](https://meet.google.com/qpm-afzw-acd)
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
+
 #### Which Youth Class am I in?
 ##### Course 11
 Austin Adams, Henry Boice, Isabella Burr, Kai Chantry, Brooke Johnson, Landon Lupus, Alice McGrath, Kiara Niklitschek, Joshua Reid, Gustavo Rocha, Jett Ross, Thomas Spackman
@@ -37,12 +38,13 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
--->
+
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
 -->
 
+<!--
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
@@ -52,7 +54,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 #### Youth Classes [Meeting link](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09) 
 
 This week, all of our youth will be using a single zoom meeting (Meeting ID 831 1601 8375, Passcode 938426), but with Breakout rooms to split into separate classes.
-
+-->
 <!--
 #### Young Women
 
