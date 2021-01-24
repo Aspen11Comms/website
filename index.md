@@ -2,6 +2,9 @@
 
 ## January 24, 2021
 
+### Teachers Council Meeting - 10:00am
+[Join this Zoom Meeting](https://zoom.us/j/95387747449?pwd=b1l6REh0S3dIMVIzTzhMVTVUTHpSUT09)
+
 ### Sacrament Meeting - 12:00pm
 
 
