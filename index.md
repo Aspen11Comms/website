@@ -2,8 +2,10 @@
 
 ## January 24, 2021
 
+<!--
 ### Teachers Council Meeting - 10:00am
 [Join this Zoom Meeting](https://zoom.us/j/95387747449?pwd=b1l6REh0S3dIMVIzTzhMVTVUTHpSUT09)
+-->
 
 ### Sacrament Meeting - 12:00pm
 
@@ -12,7 +14,7 @@
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
-
+<!--
 ### 2nd Hour Meetings - 1:30pm
 
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
@@ -41,23 +43,25 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
-
+-->
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
 -->
 
-<!--
+
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
 
 *Elder's Quorum* [Meeting link](https://meet.google.com/hkq-fmnt-ctr)
 
-#### Youth Classes [Meeting link](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09) 
+#### Youth Classes
 
-This week, all of our youth will be using a single zoom meeting (Meeting ID 831 1601 8375, Passcode 938426), but with Breakout rooms to split into separate classes.
--->
+[Priest's Quorum](https://prenda.zoom.us/j/92450402346)
+
+[All Other Youth](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
+
 <!--
 #### Young Women
 
