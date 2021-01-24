@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## January 24, 2021
+## January 31, 2021
 
 <!--
 ### Teachers Council Meeting - 10:00am
@@ -10,7 +10,7 @@
 ### Sacrament Meeting - 12:00pm
 
 
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=hbeSbNB4tsA) *(link will be available approx. 15 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](tbd) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
@@ -44,12 +44,11 @@ Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kad
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
 -->
-<!--
+
 ### Fifth Sunday Lesson
-* Lesson [meeting link](https://us02web.zoom.us/j/89651666503?pwd%3DR3FmczBKNjBmaHFrNStMOU14NEFtUT09&source=gsuite-addons&ust=1606755918550000&usg=AOvVaw3i3t-LyYmCbIZuRxPTYgZf) Passcode: 198977
--->
+* Lesson [meeting link](tbd) Passcode: tbd
 
-
+<!--
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
@@ -61,7 +60,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 [Priest's Quorum](https://prenda.zoom.us/j/92450402346)
 
 [All Other Youth](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
-
+-->
 <!--
 #### Young Women
 
@@ -76,15 +75,11 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 
 *Priests Quorum* [Meeting link](https://meet.google.com/hyi-jkmp-ymd)
 -->
+
 <!--
 ### Youth Fireside - 3:00pm
 
 *Youth Fireside* [Meeting link](https://us02web.zoom.us/j/82038809943?pwd=MHc3VDNBS3AxMTZiR3Q4T3hJTnladz09)
--->
-
-<!--
-### Teacher Council Meeting - 1:00pm
-*Teacher Council Meeting* [Meeting link](https://us02web.zoom.us/j/88244338448?pwd=b2hxcWlOOW9ZUURxZmdnUEU3U0Y5Zz09)
 -->
 
 #### Teachers Help
