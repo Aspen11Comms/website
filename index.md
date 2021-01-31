@@ -46,7 +46,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 -->
 
 ### Fifth Sunday Lesson
-* Lesson [meeting link](tbd) Passcode: tbd
+* Lesson [meeting link](https://prenda.zoom.us/j/92074344873) 
 
 <!--
 #### Relief Society & Elders Quorum
