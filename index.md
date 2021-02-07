@@ -20,7 +20,7 @@
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
 * Course 12 (12-13yo) - Bro/Sis. Davies [meeting link](https://meet.google.com/zww-rnvx-gda)
-* Course 13 (13-14yo) - Sis. Sharp/Scott [meeting link](https://prenda.zoom.us/j/7221837462)
+* Course 13 (13-14yo) - Sis. Sharp/Eyring [meeting link](https://prenda.zoom.us/j/7221837462)
 * Course 14 (14-15yo) - Bro/Sis. Weaver [meeting link](https://meet.google.com/itg-bpwo-kuq)
 * Course 15 (15-16yo) - Bro/Sis. Creer [meeting link](https://meet.google.com/qpm-afzw-acd)
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
