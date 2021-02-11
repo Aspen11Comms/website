@@ -1,7 +1,9 @@
 # Ward Meetings
 
 ## February 11, 2021
-Young Women & Relief Society Combined "Fabulous Night of Temples" activity. join Zoom [meeting link](https://zoom.us/j/93804891096?pwd=cXdocHRvUU9hNTk2VWxybFRMTnFhdz09)
+Young Women & Relief Society Combined "Fabulous Night of Temples" activity. 
+
+Join Zoom [meeting link](https://zoom.us/j/93804891096?pwd=cXdocHRvUU9hNTk2VWxybFRMTnFhdz09)
 
 
 ## February 14, 2021
