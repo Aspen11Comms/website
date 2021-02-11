@@ -20,7 +20,7 @@ Young Women & Relief Society Combined "Fabulous Night of Temples" activity. join
 
 
 ### 2nd Hour Meetings - 1:30pm
-
+<!--
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
 * Course 12 (12-13yo) - Bro/Sis. Davies [meeting link](https://meet.google.com/zww-rnvx-gda)
@@ -47,12 +47,12 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
-
+-->
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://prenda.zoom.us/j/92074344873) 
 -->
-<!--
+
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
@@ -64,7 +64,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 [Priest's Quorum](https://prenda.zoom.us/j/92450402346)
 
 [All Other Youth](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
--->
+
 <!--
 #### Young Women
 
