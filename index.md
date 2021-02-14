@@ -58,9 +58,9 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 
 #### Youth Classes
 
-[Priest's Quorum](https://prenda.zoom.us/j/92450402346)
-
-[All Other Youth](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
+[All Youth Classes](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
+* When you join the zoom meeting, find the breakout room for your class, and join there.
+* We will have someone helping direct people into the right rooms if needed.
 
 <!--
 #### Young Women
