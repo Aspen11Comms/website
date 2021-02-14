@@ -1,10 +1,5 @@
 # Ward Meetings
 
-## February 11, 2021
-Young Women & Relief Society Combined "Fabulous Night of Temples" activity. 
-
-Join Zoom [meeting link](https://zoom.us/j/93804891096?pwd=cXdocHRvUU9hNTk2VWxybFRMTnFhdz09)
-
 
 ## February 14, 2021
 
@@ -16,7 +11,7 @@ Join Zoom [meeting link](https://zoom.us/j/93804891096?pwd=cXdocHRvUU9hNTk2VWxyb
 ### Sacrament Meeting - 12:00pm
 
 
-[Aspen 11th Ward Sacrament Meeting]() *(link will be available approx. 15 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=MIJkzXVttEI) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
