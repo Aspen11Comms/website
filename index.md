@@ -11,13 +11,13 @@
 ### Sacrament Meeting - 12:00pm
 
 
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=MIJkzXVttEI) *(link will be available approx. 15 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://tbd) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
 
 ### 2nd Hour Meetings - 1:30pm
-<!--
+
 * Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
 * Course 12 (12-13yo) - Bro/Sis. Davies [meeting link](https://meet.google.com/zww-rnvx-gda)
@@ -44,12 +44,12 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
--->
+
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://prenda.zoom.us/j/92074344873) 
 -->
-
+<!--
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
@@ -61,7 +61,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 [All Youth Classes](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
-
+-->
 <!--
 #### Young Women
 
