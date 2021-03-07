@@ -54,7 +54,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://prenda.zoom.us/j/92074344873) 
 -->
-
+<!--
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
@@ -66,7 +66,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 [All Youth Classes](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
-
+-->
 <!--
 #### Young Women
 
