@@ -16,6 +16,10 @@
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
 
+### Primary - 3:30pm
+Join us in the Chapel for a half hour of primary. Accompany your children on your assigned sacrament week.
+
+
 #### Which Youth Class am I in?
 ##### Course 11
 Austin Adams, Henry Boice, Isabella Burr, Kai Chantry, Brooke Johnson, Landon Lupus, Alice McGrath, Kiara Niklitschek, Joshua Reid, Gustavo Rocha, Jett Ross, Thomas Spackman
