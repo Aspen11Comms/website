@@ -49,7 +49,7 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
--->
+
 <!--
 ### Fifth Sunday Lesson
 * Lesson [meeting link](https://prenda.zoom.us/j/92074344873) 
