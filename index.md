@@ -1,7 +1,7 @@
 # Ward Meetings
 
 
-## February 28, 2021
+## March 7, 2021
 
 <!--
 ### Teachers Council Meeting - 10:00am
@@ -11,14 +11,19 @@
 ### Sacrament Meeting - 12:00pm
 
 
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=i0A8PN6GDCs) *(link will be available approx. 15 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=wBXahttGc8Q) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
-<!--
 ### 2nd Hour Meetings - 1:30pm
 
-* Gospel Doctrine - Griffith [meeting link](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
+[Gospel Doctrine - Griffith](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
+
+[All Youth Classes](http://to-be-determined)
+* When you join the zoom meeting, find the breakout room for your class, and join there.
+* We will have someone helping direct people into the right rooms if needed.
+
+<!--
 * Course 11 (11-12yo) - Bro/Sis. Anderson [meeting link](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
 * Course 12 (12-13yo) - Bro/Sis. Davies [meeting link](https://meet.google.com/zww-rnvx-gda)
 * Course 13 (13-14yo) - Sis. Sharp/Eyring [meeting link](https://prenda.zoom.us/j/7221837462)
@@ -26,7 +31,7 @@
 * Course 15 (15-16yo) - Bro/Sis. Creer [meeting link](https://meet.google.com/qpm-afzw-acd)
 * Course 16/17 (16-18yo) - Bro/Sis. Wilde [meeting link](https://meet.google.com/yfh-xete-ruk)
 * YSA - Jones [meeting link](https://meet.google.com/uxh-tedi-wum)
-
+-->
 #### Which Youth Class am I in?
 ##### Course 11
 Austin Adams, Henry Boice, Isabella Burr, Kai Chantry, Brooke Johnson, Landon Lupus, Alice McGrath, Kiara Niklitschek, Joshua Reid, Gustavo Rocha, Jett Ross, Thomas Spackman
