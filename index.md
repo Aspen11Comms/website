@@ -2,22 +2,26 @@
 
 ## March 7, 2021
 
+### Youth Kickoff Meeting - 10:00am
+
+[Meeting link (Zoom)](https://us02web.zoom.us/j/82345170901?pwd=OEtuQk5mWjNzQUJscDRRWDBpczJQUT09&sa=D&source=calendar&usg=AOvVaw2kOjHU107V4AlrCfiA6cqL)
+
+Join us for an all-youth led event to kick off our calendar year! Parents and youth are strongly encouraged to attend!
+
 ### Sacrament Meeting - 12:00pm
 
 [Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=wBXahttGc8Q) *(link will be available approx. 15 minutes before the start of the meeting each week)*
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
-### 2nd Hour Meetings - 1:30pm
+### 2nd Hour Meetings - 1:30pm (1:15pm for Youth)
 
+<!--
 [Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 
 [All Youth Classes](https://zoom.us/j/92721695851?pwd=bG92ZUs4clYwa01lQUphZ0xILzc2Zz09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
-
-### Primary - 3:30pm
-Join us in the Chapel for a half hour of primary. Accompany your children on your assigned sacrament week.
 
 
 #### Which Youth Class am I in?
@@ -37,20 +41,27 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
+-->
 
-<!--
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
 
 *Elder's Quorum* [Meeting link](https://meet.google.com/hkq-fmnt-ctr)
 
-#### Youth Classes
+#### Youth Classes - 1:15pm
 
+*Meet in the cultural hall for a combined lesson with Pres. Dallin*
+<!--
 [All Youth Classes](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
 -->
+
+
+### Primary - 3:30pm
+
+Join us in the Chapel for a half hour of primary. Accompany your children on your assigned sacrament week.
 
 #### Teachers Help
 
