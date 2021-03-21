@@ -8,7 +8,7 @@
 
 [Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
 
-### 2nd Hour Meetings - 1:30pm (1:15pm for Youth)
+### 2nd Hour Meetings - 1:30pm
 
 [Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 
