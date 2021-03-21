@@ -1,12 +1,6 @@
 # Ward Meetings
 
-## March 14, 2021
-
-### Youth Kickoff Meeting - 10:00am
-
-[Meeting link (Zoom)](https://us02web.zoom.us/j/82345170901?pwd=OEtuQk5mWjNzQUJscDRRWDBpczJQUT09&sa=D&source=calendar&usg=AOvVaw2kOjHU107V4AlrCfiA6cqL)
-
-Join us for an all-youth led event to kick off our calendar year! Parents and youth are strongly encouraged to attend!
+## March 21, 2021
 
 ### Sacrament Meeting - 12:00pm
 
@@ -16,7 +10,6 @@ Join us for an all-youth led event to kick off our calendar year! Parents and yo
 
 ### 2nd Hour Meetings - 1:30pm (1:15pm for Youth)
 
-<!--
 [Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 
 [All Youth Classes](https://zoom.us/j/92721695851?pwd=bG92ZUs4clYwa01lQUphZ0xILzc2Zz09)
@@ -41,8 +34,8 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
 Sofia Gonzalez, Hailey Johnson, Christian Todd
--->
 
+<!--
 #### Relief Society & Elders Quorum
 
 *Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
@@ -52,6 +45,7 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd
 #### Youth Classes - 1:15pm
 
 *Meet in the cultural hall for a combined lesson with Pres. Dallin*
+-->
 <!--
 [All Youth Classes](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
