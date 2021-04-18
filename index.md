@@ -16,6 +16,7 @@
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
 
+[YSA - Jones](https://meet.google.com/uxh-tedi-wum)
 
 #### Which Youth Class am I in?
 ##### Course 11
