@@ -12,7 +12,7 @@
 
 [Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 
-[All Youth Classes](https://zoom.us/j/9326443309?pwd=MkZ5Zmt1bXdHYUdXZHkxL25oUStsdz09)
+[All Youth Classes](https://zoom.us/j/94692579781?pwd=WTZLVHhnQUxNNjV1bGVsb0wyQ3ArQT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
 
