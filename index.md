@@ -1,14 +1,14 @@
 # Ward Meetings
 
-## April 18, 2021
+## April 25, 2021
 
-### Sacrament Meeting - 12:00pm
+### Stake Conference - 10:00am
 
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=dgJFqi8tMXk) *(link will be available approx. 20 minutes before the start of the meeting each week)*
+<!--[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=dgJFqi8tMXk) *(link will be available approx. 20 minutes before the start of the meeting each week)*-->
 
-[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.
+<!--[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.-->
 
-### 2nd Hour Meetings - 1:30pm
+<!--### 2nd Hour Meetings - 1:30pm
 
 [Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 
@@ -34,7 +34,7 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 ##### Course 17
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
-Sofia Gonzalez, Hailey Johnson, Christian Todd
+Sofia Gonzalez, Hailey Johnson, Christian Todd-->
 
 <!--
 #### Relief Society & Elders Quorum
