@@ -47,10 +47,10 @@ Sofia Gonzalez, Hailey Johnson, Christian Todd-->
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
 -->
-
+<!--
 ### Primary - 3:30pm
 
-Join us in the Chapel for a half hour of primary. Accompany your children on your assigned sacrament week.
+Join us in the Chapel for a half hour of primary. Accompany your children on your assigned sacrament week.-->
 
 #### Teachers Help
 
