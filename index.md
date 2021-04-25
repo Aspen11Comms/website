@@ -5,6 +5,7 @@
 ### Stake Conference - 10:00am
 
 [Live stream](http://mywebcast.churchofjesuschrist.org/Events/oremutahaspenstake)
+[Alternate stream](https://www.facebook.com/100001258077499/videos/4233315546720339/)
 
 <!--[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=dgJFqi8tMXk) *(link will be available approx. 20 minutes before the start of the meeting each week)*-->
 
