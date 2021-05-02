@@ -9,7 +9,7 @@
 
 ### 2nd Hour Meetings - 1:30pm
 
-[Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) tbd
+[Gospel Doctrine](https://www.youtube.com/watch?v=8mpw5LYxplA)
 
 <!--
 [All Youth Classes](https://zoom.us/j/94692579781?pwd=WTZLVHhnQUxNNjV1bGVsb0wyQ3ArQT09)
