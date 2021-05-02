@@ -3,7 +3,7 @@
 ## May 2, 2021
 
 ### Sacrament Meeting - 12:00pm
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=rGSQXomajT0) *(link will be available approx. 20 minutes before the start of the meeting each week)*-->
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=rGSQXomajT0) *(link will be available approx. 20 minutes before the start of the meeting each week)*
 
 <!--[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.-->
 
