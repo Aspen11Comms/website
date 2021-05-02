@@ -1,20 +1,17 @@
 # Ward Meetings
 
-## April 25, 2021
+## May 2, 2021
 
-### Stake Conference - 10:00am
-
-[Live stream](http://mywebcast.churchofjesuschrist.org/Events/oremutahaspenstake)
-/[Alternate stream](https://www.facebook.com/100001258077499/videos/4233315546720339/)
-
-<!--[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=dgJFqi8tMXk) *(link will be available approx. 20 minutes before the start of the meeting each week)*-->
+### Sacrament Meeting - 12:00pm
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=rGSQXomajT0) *(link will be available approx. 20 minutes before the start of the meeting each week)*-->
 
 <!--[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.-->
 
-<!--### 2nd Hour Meetings - 1:30pm
+### 2nd Hour Meetings - 1:30pm
 
-[Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
+[Gospel Doctrine](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) tbd
 
+<!--
 [All Youth Classes](https://zoom.us/j/94692579781?pwd=WTZLVHhnQUxNNjV1bGVsb0wyQ3ArQT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
 * We will have someone helping direct people into the right rooms if needed.
@@ -37,8 +34,8 @@ Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup
 ##### Course 17
 Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
 ##### Course 17B
-Sofia Gonzalez, Hailey Johnson, Christian Todd-->
-
+Sofia Gonzalez, Hailey Johnson, Christian Todd
+-->
 <!--
 #### Relief Society & Elders Quorum
 
