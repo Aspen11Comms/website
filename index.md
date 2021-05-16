@@ -10,19 +10,19 @@
 ### 2nd Hour Meetings - 1:10pm
 
 All 2nd hour classes will be held in person. Auxiliary presidencies and instructors will communicate any available online-based broadcast links.
-Links TBD
+
 
 <!--
 * Relief Society [join meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 * Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1)
 * Youth Sunday School
 -->
-<!--
-[Gospel Doctrine](https://www.youtube.com/watch?v=8mpw5LYxplA) view and listen to the broadcast.
 
-[Join Zoom Meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) view and listen and participate. 
-- Chats will be monitored, and presented to the audience. Live audience will see your zoom video.
--->
+[Gospel Doctrine](https://tbd) view and listen to the broadcast.
+
+[Join Zoom Meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) view and listen. 
+- Live audience may see your zoom video.
+
 <!--
 [All Youth Classes](https://zoom.us/j/94692579781?pwd=WTZLVHhnQUxNNjV1bGVsb0wyQ3ArQT09)
 * When you join the zoom meeting, find the breakout room for your class, and join there.
