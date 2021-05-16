@@ -18,8 +18,6 @@ All 2nd hour classes will be held in person. Auxiliary presidencies and instruct
 * Youth Sunday School
 -->
 
-[Gospel Doctrine](https://tbd) view and listen to the broadcast.
-
 [Join Zoom Meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) view and listen. 
 - Live audience may see your zoom video.
 
