@@ -3,18 +3,20 @@
 ## May 9, 2021
 
 ### Sacrament Meeting - 12:00pm
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=XkJeNr4i_MU) *(link will be available approx. 20 minutes before the start of the meeting each week)*
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=xHkCQkXv_vw) *(link will be available approx. 20 minutes before the start of the meeting each week)*
 
 <!--[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.-->
 
 ### 2nd Hour Meetings - 1:10pm
 
 All 2nd hour classes will be held in person. Auxiliary presidencies and instructors will communicate any available online-based broadcast links.
+Links TBD
+<!--
 
 * Relief Society [join meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
 * Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1)
 * Youth Sunday School
-
+-->
 <!--
 [Gospel Doctrine](https://www.youtube.com/watch?v=8mpw5LYxplA) view and listen to the broadcast.
 
