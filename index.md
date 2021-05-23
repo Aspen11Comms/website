@@ -1,25 +1,25 @@
 # Ward Meetings
 
-## May 16, 2021
+## May 23, 2021
 
 ### Sacrament Meeting - 12:00pm
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=xHkCQkXv_vw) *(link will be available approx. 20 minutes before the start of the meeting each week)*
-
-<!--[Group assignments](https://docs.google.com/document/d/1mpLDtxDyq9XB_umNcKlkvhGHiGv-0iW3OCYqaRxaDrI/preview) for weekly attendance.-->
+[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=-elsCOnVVhk) *(link will be available approx. 20 minutes before the start of the meeting each week)*
 
 ### 2nd Hour Meetings - 1:10pm
 
 All 2nd hour classes will be held in person. Auxiliary presidencies and instructors will communicate any available online-based broadcast links.
 
-
 <!--
-* Relief Society [join meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
+* Relief Society TBD [join meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09)
+-->
+* Relief Society will be in-person only 
 * Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1)
 * Youth Sunday School
--->
 
+<!--
 [Join Zoom Meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) view and listen. 
 - Live audience may see your zoom video.
+-->
 
 <!--
 [All Youth Classes](https://zoom.us/j/94692579781?pwd=WTZLVHhnQUxNNjV1bGVsb0wyQ3ArQT09)
