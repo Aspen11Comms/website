@@ -1,9 +1,9 @@
 # Ward Meetings
 
-## May 23, 2021
+## May 30, 2021
 
 ### Sacrament Meeting - 12:00pm
-[Aspen 11th Ward Sacrament Meeting](https://www.youtube.com/watch?v=-elsCOnVVhk) *(link will be available approx. 20 minutes before the start of the meeting each week)*
+The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen, Sister Boice, or Bishop Sharp.
 
 ### 2nd Hour Meetings - 1:10pm
 
@@ -14,7 +14,7 @@ All 2nd hour classes will be held in person. Auxiliary presidencies and instruct
 * Youth Sunday School in-person only
 -->
 
-* Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1)
+<!-- * Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1) -->
 
 <!--
 [Join Zoom Meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) view and listen. 
