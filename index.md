@@ -1,14 +1,16 @@
 # Ward Meetings
 
-## May 30, 2021
+## June 6, 2021
 
 ### Sacrament Meeting - 12:00pm
-The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen, Sister Boice, or Bishop Sharp.
+The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen, Sister Boice
 
 ### 2nd Hour Meetings - 1:10pm
 
 All 2nd hour classes will be held in person. Auxiliary presidencies and instructors will communicate any available online-based broadcast links.
+
 Contact President Christensen or David Patty for access to a link for 2nd hour.
+
 <!--
 * Relief Society [join meeting]()
 * Youth Sunday School in-person only
