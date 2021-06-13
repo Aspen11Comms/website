@@ -1,6 +1,6 @@
 # Ward Meetings
 
-## June 6, 2021
+## June 13, 2021
 
 ### Sacrament Meeting - 12:00pm
 The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen, Sister Boice
@@ -9,12 +9,7 @@ The Sacrament Broadcast link will no longer be published on this website. If you
 
 All 2nd hour classes will be held in person. Auxiliary presidencies and instructors will communicate any available online-based broadcast links.
 
-Contact President Christensen or David Patty for access to a link for 2nd hour.
-
-<!--
-* Relief Society [join meeting]()
-* Youth Sunday School in-person only
--->
+Contact President Christensen, Sister Boice or David Patty for access to a link for 2nd hour.
 
 <!-- * Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1) -->
 
