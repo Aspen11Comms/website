@@ -3,7 +3,7 @@
 ## June 27, 2021
 
 ### Sacrament Meeting - 12:00pm
-The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen, Sister Boice
+The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen or Sister Boice.
 
 ### 2nd Hour Meetings - 1:10pm
 
