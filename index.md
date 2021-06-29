@@ -72,5 +72,7 @@ Join us in the Chapel for a half hour of primary. Accompany your children on you
 [oremutahaspenstake.org](https://www.oremutahaspenstake.org/)
 
 ## Upcoming Events
+### 2021 Youth Conference ###
+Click [this link](/2021 Youth Conference) to see the latest info for Youth Conference
 {% include calendar_test.html src_id=page.src_id %}
 
