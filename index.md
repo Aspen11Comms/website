@@ -73,6 +73,6 @@ Join us in the Chapel for a half hour of primary. Accompany your children on you
 
 ## Upcoming Events
 ### 2021 Youth Conference ###
-Click [this link](2021%20Youth%20Conference.md) to see the latest info for Youth Conference
+Click [this link](2021%20Youth%20Conference) to see the latest info for Youth Conference
 {% include calendar_test.html src_id=page.src_id %}
 
