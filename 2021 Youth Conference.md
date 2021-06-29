@@ -9,3 +9,5 @@ Please see [this link](https://docs.google.com/document/d/1tkGtdcPffkD0vfxL1myYv
 Please see [this link](https://docs.google.com/document/d/1PqVFZP6JZu4OK_JPOBz16Izz39oVh6t42sUGxCkQ8b8/preview) for the packing list that entails what each youth will need.
 ## Where is Mutual Dell?
 [Mutual Dell](https://www.google.com/maps/place/Mutual+Dell+Campground/@40.4469831,-111.6464138,17z/data=!3m1!4b1!4m5!3m4!1s0x874d88699aef8e6b:0x96b3ec50ec92e6cc!8m2!3d40.4469831!4d-111.6442251)
+## What if I haven't signed up my youth yet?
+Please go to [this link](https://forms.gle/kqe81V1kvbFVt5p7A) to sign up your youth and sign the necessary permission slip.
