@@ -1,7 +1,5 @@
 # Ward Meetings
 
-## June 27, 2021
-
 ### Sacrament Meeting - 12:00pm
 The Sacrament Broadcast link will no longer be published on this website. If you need access to view remotely, contact President Christensen or Sister Boice.
 
@@ -10,54 +8,6 @@ The Sacrament Broadcast link will no longer be published on this website. If you
 All 2nd hour classes will be held in person. Auxiliary presidencies and instructors will communicate any available online-based broadcast links.
 
 Contact President Christensen, Sister Boice or David Patty for access to a link for 2nd hour.
-
-<!-- * Elders Quorum [join meeting](https://meet.google.com/hkq-fmnt-ctr?hs=122&authuser=1) -->
-
-<!--
-[Join Zoom Meeting](https://us02web.zoom.us/j/6270768192?pwd=WE5IakduUTViQmNhd0NpdzZLSlp3UT09) view and listen. 
-- Live audience may see your zoom video.
--->
-
-<!--
-[All Youth Classes](https://zoom.us/j/94692579781?pwd=WTZLVHhnQUxNNjV1bGVsb0wyQ3ArQT09)
-* When you join the zoom meeting, find the breakout room for your class, and join there.
-* We will have someone helping direct people into the right rooms if needed.
-
-[YSA - Jones](https://meet.google.com/uxh-tedi-wum)
-
-#### Which Youth Class am I in?
-##### Course 11
-Austin Adams, Henry Boice, Isabella Burr, Kai Chantry, Brooke Johnson, Landon Lupus, Alice McGrath, Kiara Niklitschek, Joshua Reid, Gustavo Rocha, Jett Ross, Thomas Spackman
-##### Course 12
-Luke Bergin, Beth Douglas, Grayson Ellison, Cooper Garner, Grace Graham, Aspyn Johnson, Marshall Kimber, JC Martinez, Luis Meneses, Giovana Rocha, Javin Rowley, Cohen Sharp, Chloe Van Dyke
-##### Course 13
-David Burr, Megan Humble, Emma Jacquart, Anna McGrath, Kayden Norton, JJ Perkins, Eden Spackman, Marjorie Story
-##### Course 14
-Paige Adams, Rachel Bergin, Briggs Bronson, Michael Burr, Ronan Dallin, Ella Ellison, Angel Hill, Chase Johnson, Michael Judkins, Chanel Lupus, Ava Newton, Emmy Sharp
-##### Course 15
-Alexis Adams, Robbie Boyce, Morgan Burton, Nelson Johnson, Coen Long, Isabela Rocha, Dylan Story, Cooper Todd, Daphne Waldron, Elijah Woolf
-##### Course 16
-Emma Bergin, Brenna Bronson, Julissa Martinez, Lindsay Van Dyke, William Westrup, Tate Wilde
-##### Course 17
-Oliver Boice, Kimberly Dellaripa, Luke Douglas, Joey Hadfield, Jasmine Hill, Kadie Hunsaker, Haylee Johnson, Kimball Johnson, AmyLynn Judkins, Camille Van Orman
-##### Course 17B
-Sofia Gonzalez, Hailey Johnson, Christian Todd
--->
-<!--
-#### Relief Society & Elders Quorum
-
-*Relief Society* [Meeting link](https://zoom.us/j/93026837990?pwd=QmdhMS80ZUg5NXBBMkxJU1hnY2NVUT09) (Meeting ID 930 2683 7990, Passcode 046979 if needed)
-
-*Elder's Quorum* [Meeting link](https://meet.google.com/hkq-fmnt-ctr)
-
-[All Youth Classes](https://us02web.zoom.us/j/83116018375?pwd=SHcva0tnay9XVWFoL0hQbU1VdXZmUT09)
-* When you join the zoom meeting, find the breakout room for your class, and join there.
-* We will have someone helping direct people into the right rooms if needed.
--->
-<!--
-### Primary - 3:30pm
-
-Join us in the Chapel for a half hour of primary. Accompany your children on your assigned sacrament week.-->
 
 #### Teachers Help
 
