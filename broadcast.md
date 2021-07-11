@@ -2,6 +2,6 @@
 
 ### Sacrament meeting, July 11, 2021
 
-[Link](youtube.com)
+[Link](https://www.youtube.com/watch?v=2jnppa1r6zA)
 
 **Link will be live 15-20 mins prior to the meeting*
