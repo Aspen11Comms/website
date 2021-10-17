@@ -1,6 +1,8 @@
 ## Tithing Settlement
 
-Please go to the Tithing Settlement page to schedule your tithing settlement appointmnet for 2021
+Click the link below that best matches your needs for tithing settlement
+* Make a [virtual tithing settlement appointment](https://bishopsharp-tithing-settlement-2021-virtual.youcanbook.me)
+* Make a [face-to-face tithing settlement appointment](https://bishopsharp-tithing-settlement-2021.youcanbook.me)
 
 ## Meetings/Broadcasts 
 
