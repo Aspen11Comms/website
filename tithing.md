@@ -1,4 +1,4 @@
-#Tithing Settlement
+## Tithing Settlement
 
 Click the link below that best fits your needs for tithing settlement
 * Make a [virtual appointment](https://bishopsharp-tithing-settlement-2021-virtual.youcanbook.me)
