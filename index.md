@@ -1,6 +1,6 @@
 ## Tithing Settlement 2021
 
-{% include_relative "Tithing Settlement.md" %}
+{% include_relative "tithing.md" %}
 
 ## Meetings/Broadcasts 
 
