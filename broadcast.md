@@ -1,4 +1,4 @@
 # Broadcast Link for the Aspen 11th Ward
 
-## October 17, 2021
-### [Sacrament meeting](https://youtu.be/mQe17w1s1ag) (*currently broadcasting*)
+## October 24, 2021
+### [Sacrament meeting](https://www.youtube.com/watch?v=0LLWYDIzA3E) (*currently broadcasting*)
