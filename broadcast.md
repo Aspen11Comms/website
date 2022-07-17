@@ -1,4 +1,4 @@
 # Broadcast Link for the Aspen 11th Ward
 
-## July 10th, 2022
-### [Sacrament meeting](https://youtu.be/1XUh5NUNGH8)
+## July 17th, 2022
+### [Sacrament meeting](https://www.youtube.com/watch?v=a00a4jIQ5pI)
