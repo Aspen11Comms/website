@@ -1,5 +1,4 @@
-## Tithing Settlement
+## Tithing Declaration
 
-Click the link below that best fits your needs for tithing settlement
-* Make a [virtual appointment](https://bishopsharp-tithing-settlement-2021-virtual.youcanbook.me)
-* Make a [face-to-face appointment](https://bishopsharp-tithing-settlement-2021.youcanbook.me)
+Click the link below for tithing declaration:
+* Make a [face-to-face appointment](https://bishopsharp-tithing-declaration-2022.youcanbook.me)
