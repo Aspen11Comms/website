@@ -1,4 +1,4 @@
-# Broadcast Link for the Andrew Van Dyke
+# Broadcast for the Andrew Van Dyke Memorial Service
 
 ## January 21st, 2023
 
