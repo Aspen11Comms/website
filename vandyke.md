@@ -2,6 +2,6 @@
 
 ## January 21st, 2023
 
-(link will be added when video goes live)
+(link will work when video goes live)
 
-<!-- ### [Click here to stream](#) -->
+### [Click here to stream](#)
