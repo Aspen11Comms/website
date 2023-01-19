@@ -2,6 +2,8 @@
 
 ## Meetings/Broadcasts 
 
+[Funeral for Brother Andrew Van Dyke](vandyke)
+
 The Sacrament Broadcast link is shared on an as-needed basis. If you need access to view sacrament meeting remotely, contact President Christensen or Sister Boice.
 
 #### Teachers Help
