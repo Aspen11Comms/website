@@ -4,4 +4,4 @@
 
 (link will work when video goes live)
 
-### [Click here to stream](#)
+### [Click here to stream](https://www.youtube.com/watch?v=VPGpG8c5umM)
