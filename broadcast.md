@@ -1,4 +1,4 @@
 # Broadcast Link for the Aspen 11th Ward
 
-## October 8th, 2023
-### [Sacrament meeting](HTTPS://www.youtube.com/watch?v=_M_wy91rIvs)
+## October 15th, 2023
+### [Sacrament meeting](HTTPS://www.youtube.com/watch?v=E6fz0BfJu68)
